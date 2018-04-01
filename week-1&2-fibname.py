@@ -1,5 +1,5 @@
-# Ian McLoughlin
-# A program that displays Fibonacci numbers using people's names.
+#references: https://github.com/ianmcloughlin/python-fib/blob/master/fib.py
+#https://github.com/ianmcloughlin/python-fib/blob/master/fibname.py
 
 def fib(n):
   """This function returns the nth Fibonacci number."""
