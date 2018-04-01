@@ -1,0 +1,21 @@
+#project euler nuala gallagher
+
+#check if a number is evenly divisible by 1 to 20
+#reference to https://www.youtube.com/watch?v=Km36RkQToqo
+
+
+
+def check(n):
+    for i in range(11, 21):   #number from 11 - 21 but not including 21 ie. 11- 20
+        while n % i > 0:  #while the remainder of n divided by i not zero
+             return False
+    if n % i == 0:
+     return True    
+           
+n = 1
+while True:
+    if check(n):
+        break
+    n += 1
+
+print(n)
