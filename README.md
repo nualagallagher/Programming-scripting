@@ -14,3 +14,10 @@ Write a Python script that reads the Iris data set in and prints the four numeri
 
 # Exercise 6:
 Write a Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. The factorial of a number is that number multiplied by all of the positive numbers less than it. For example, the factorial of 5 is 5x4x3x2x1 which equals 120. You should, in your script, test the function by calling it with the values 5, 7, and 10. The script for Exercise 6 can be found in the file exercise6.py.
+
+
+
+
+## All of the above exercises are written in python.
+
+https://docs.python.org/3/tutorial/ 
